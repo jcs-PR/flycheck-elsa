@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "flycheck-elsa" "1.0.0" "Flycheck for Elsa")
 
 (website-url "https://github.com/emacs-elsa/flycheck-elsa")
